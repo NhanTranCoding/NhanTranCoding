@@ -5,6 +5,14 @@ My name is Nhan Tran. I am interested in the following topics: Deep Learning in 
 
 ![Nhan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NhanTranCoding&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/NhanTranCoding/Predict_Safety_Contructor_YOLOv8">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NhanTranCoding&repo=Predict_Safety_Contructor_YOLOv8&theme=radical" />
+</a> 
+<a href="https://github.com/NhanTranCoding/Playing_game_Subway_Surfers_by_AI">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NhanTranCoding&repo=Playing_game_Subway_Surfers_by_AI&theme=radical" />
+</a>  
 <a href="https://github.com/NhanTranCoding/CNN_Predict_Natural_Scenes/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NhanTranCoding&repo=CNN_Predict_Natural_Scenes&theme=radical" />
@@ -17,11 +25,5 @@ My name is Nhan Tran. I am interested in the following topics: Deep Learning in 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NhanTranCoding&repo=People_Counter_Yolov8&theme=gruvbox" />
 </a> 
-<a href="https://github.com/NhanTranCoding/ML_Classfication_Customer_Churn/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NhanTranCoding&repo=ML_Classfication_Customer_Churn&theme=dark" />
-</a>
-<a href="https://github.com/NhanTranCoding/ML_NLP_PredictJob">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=NhanTranCoding&repo=ML_NLP_PredictJob&theme=onedark" />
-</a>    
+
+  
